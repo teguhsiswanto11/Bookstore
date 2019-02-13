@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <!-- Header -->
+    <h1>judul satu</h1>
+    <!-- Body -->
+    <div class="bodi"></div>
+    <!-- Footer -->
+    <footer></footer>
 </body>
 </html>
