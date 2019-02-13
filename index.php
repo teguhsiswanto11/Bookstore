@@ -9,6 +9,7 @@
 <body>
     <!-- Header -->
     <h1>judul satu</h1>
+    <h2>Tambah H2</h2>
     <!-- Body -->
     <div class="bodi"></div>
     <!-- Footer -->
