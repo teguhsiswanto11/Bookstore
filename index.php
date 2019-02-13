@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Heading Pertama</h1>
+    <h2>Heading Kedua</h2>
 </body>
 </html>
