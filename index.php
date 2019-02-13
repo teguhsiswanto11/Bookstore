@@ -12,6 +12,15 @@
     <!-- Body -->
     <div class="bodi"></div>
     <!-- Footer -->
-    <footer></footer>
+    <footer>
+        <div class="kiri">
+            <ul>
+                <link rel="alternate" href="atom.xml" type="application/atom+xml" title="Atom">
+            </ul>
+        </div>
+        <div class="kanan">
+            ini adalah footer | copyright 2019 - Teguh Siswanto
+        </div>
+    </footer>
 </body>
 </html>
