@@ -10,6 +10,8 @@
     <!-- Header -->
     <h1>judul satu</h1>
     <!-- Body -->
+    <div class="bodi"></div>
     <!-- Footer -->
+    
 </body>
 </html>
