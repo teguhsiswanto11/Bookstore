@@ -12,6 +12,6 @@
     <!-- Body -->
     <div class="bodi"></div>
     <!-- Footer -->
-    
+    <footer></footer>
 </body>
 </html>
